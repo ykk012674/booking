@@ -1,0 +1,2412 @@
+[
+    {
+      "제조사": "Samsung",
+      "모델명": "YP-GP1",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.0.4",
+      "영문 모델명(Pet_Name)": "Galaxy Player",
+      "Pet_Name": "갤럭시 플레이어"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "YP-GI2",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "Galaxy 070",
+      "Pet_Name": "스마트홈폰2"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T805K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "Galaxy TabS",
+      "Pet_Name": "갤럭시탭S 10.5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T805K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "Galaxy TabS",
+      "Pet_Name": "갤럭시탭S 10.5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T805K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy TabS",
+      "Pet_Name": "갤럭시탭S 10.5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T677NK",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy View",
+      "Pet_Name": "갤럭시 뷰"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T505N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Tab A7",
+      "Pet_Name": "갤럭시 탭 A7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T378K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy Tab E Black",
+      "Pet_Name": "갤럭시 탭 E Black"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T335K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Tab4 8.0",
+      "Pet_Name": "갤럭시탭4 8.0"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-T335K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy Tab4 8.0",
+      "Pet_Name": "갤럭시탭4 8.0"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-P605K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note10.1",
+      "Pet_Name": "갤럭시 노트10.1"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-P605K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.3",
+      "영문 모델명(Pet_Name)": "Galaxy Note10.1",
+      "Pet_Name": "갤럭시 노트10.1"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-P555K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "Galaxy Tab A",
+      "Pet_Name": "갤럭시 탭 A"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N986N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Note20 Ultra 5G",
+      "Pet_Name": "갤럭시 노트20 Ultra 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N981N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Galaxy Note20 5G",
+      "Pet_Name": "갤럭시 노트20 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N981N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Note20 5G",
+      "Pet_Name": "갤럭시 노트20 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N981N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Note20 5G",
+      "Pet_Name": "갤럭시 노트20 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N976N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Note10+ 5G",
+      "Pet_Name": "갤럭시 노트10+ 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N976N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Galaxy Note10+ 5G",
+      "Pet_Name": "갤럭시 노트10+ 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N971N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Note10 5G",
+      "Pet_Name": "갤럭시 노트10 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N971N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Note10 5G",
+      "Pet_Name": "갤럭시 노트10 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N971N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Note10 5G",
+      "Pet_Name": "갤럭시 노트10 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N971N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Galaxy Note10 5G",
+      "Pet_Name": "갤럭시 노트10 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N960N(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Note9",
+      "Pet_Name": "갤럭시 노트9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N960N(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8.1,
+      "영문 모델명(Pet_Name)": "Galaxy Note9",
+      "Pet_Name": "갤럭시 노트9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N960N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note9",
+      "Pet_Name": "갤럭시 노트9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N960N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note9",
+      "Pet_Name": "갤럭시 노트9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N950N(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note8",
+      "Pet_Name": "갤럭시 노트8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N950N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note8",
+      "Pet_Name": "갤럭시 노트8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N950N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "Galaxy Note8",
+      "Pet_Name": "갤럭시 노트8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N935K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note FE",
+      "Pet_Name": "갤럭시 노트 FE(Fan Edition)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N935K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note FE",
+      "Pet_Name": "갤럭시 노트 FE(Fan Edition)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N920K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note5",
+      "Pet_Name": "갤럭시 노트5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N920K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note5",
+      "Pet_Name": "갤럭시 노트5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N916K_3CA",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note4 S-LTE",
+      "Pet_Name": "갤럭시 노트4 S-LTE"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N916K_3CA",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note4 S-LTE",
+      "Pet_Name": "갤럭시 노트4 S-LTE"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N916K_3CA",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note4 S-LTE",
+      "Pet_Name": "갤럭시 노트4 S-LTE"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N915K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note Edge",
+      "Pet_Name": "갤럭시 노트 Edge"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N915K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy Note Edge",
+      "Pet_Name": "갤럭시 노트 Edge"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N910K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note4",
+      "Pet_Name": "갤럭시 노트4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N910K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note4",
+      "Pet_Name": "갤럭시 노트4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N910K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note4",
+      "Pet_Name": "갤럭시 노트4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N910K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy Note4",
+      "Pet_Name": "갤럭시 노트4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N900S(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 5,
+      "영문 모델명(Pet_Name)": "Galaxy Note3",
+      "Pet_Name": "갤럭시 노트3"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N900K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "Galaxy Note3",
+      "Pet_Name": "갤럭시 노트3"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N900K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note3",
+      "Pet_Name": "갤럭시 노트3"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N750K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Note3 NEO",
+      "Pet_Name": "갤럭시 노트3 NEO"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-N750K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note3 NEO",
+      "Pet_Name": "갤럭시 노트3 NEO"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J730K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1",
+      "영문 모델명(Pet_Name)": "Galaxy J7",
+      "Pet_Name": "갤럭시 J7 (2017)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J730K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy J7",
+      "Pet_Name": "갤럭시 J7 (2017)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J710K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1",
+      "영문 모델명(Pet_Name)": "Galaxy J7",
+      "Pet_Name": "갤럭시 J7 (2016)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J710K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "Galaxy J7",
+      "Pet_Name": "갤럭시 J7 (2016)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J700K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy J7",
+      "Pet_Name": "갤럭시 J7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J530K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy J5",
+      "Pet_Name": "갤럭시 J5 (2017)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J510K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy J5",
+      "Pet_Name": "갤럭시 J5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-J510K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "Galaxy J5",
+      "Pet_Name": "갤럭시 J5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G998N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Galaxy S21 Ultra",
+      "Pet_Name": "갤럭시 S21 Ultra"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G996N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Galaxy S21+",
+      "Pet_Name": "갤럭시 S21+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G991N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Galaxy S21",
+      "Pet_Name": "갤럭시 S21"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G988N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy S20 Ultra 5G",
+      "Pet_Name": "갤럭시S20 Ultra 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G986N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy S20+ 5G",
+      "Pet_Name": "갤럭시S20+ 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G981N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy S20 5G",
+      "Pet_Name": "갤럭시S20 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G981N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S20 5G",
+      "Pet_Name": "갤럭시S20 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G977N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S10 X",
+      "Pet_Name": "갤럭시S10 X"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G975N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S10+",
+      "Pet_Name": "갤럭시 S10+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G973N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy S10",
+      "Pet_Name": "갤럭시 S10"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G973N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S10",
+      "Pet_Name": "갤럭시 S10"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G970N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S10e",
+      "Pet_Name": "갤럭시 S10e"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G970N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Galaxy S10e",
+      "Pet_Name": "갤럭시 S10e"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G965N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.0.0",
+      "영문 모델명(Pet_Name)": "Galaxy S9+",
+      "Pet_Name": "갤럭시 S9+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G965N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S9+",
+      "Pet_Name": "갤럭시 S9+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G960N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.0.0",
+      "영문 모델명(Pet_Name)": "Galaxy S9",
+      "Pet_Name": "갤럭시 S9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G960N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "10.0",
+      "영문 모델명(Pet_Name)": "Galaxy S9",
+      "Pet_Name": "갤럭시 S9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G960N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Galaxy S9",
+      "Pet_Name": "갤럭시 S9"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G955N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "Galaxy S8+",
+      "Pet_Name": "갤럭시 S8+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G955N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "Galaxy S8+",
+      "Pet_Name": "갤럭시 S8+"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G950S(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 7,
+      "영문 모델명(Pet_Name)": "Galaxy S8",
+      "Pet_Name": "갤럭시 S8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G950N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "Galaxy S8",
+      "Pet_Name": "갤럭시 S8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G950N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "Galaxy S8",
+      "Pet_Name": "갤럭시 S8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G950L(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "Galaxy S8",
+      "Pet_Name": "갤럭시 S8"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G935K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.0",
+      "영문 모델명(Pet_Name)": "Galaxy S7 Edge",
+      "Pet_Name": "갤럭시 S7 Edge"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G935K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy S7 Edge",
+      "Pet_Name": "갤럭시 S7 Edge"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G935K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S7 Edge",
+      "Pet_Name": "갤럭시 S7 Edge"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G930S(타사)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S7",
+      "Pet_Name": "갤럭시 S7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G930K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy S7",
+      "Pet_Name": "갤럭시 S7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G930K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy S7",
+      "Pet_Name": "갤럭시 S7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G928K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S6 Edge+",
+      "Pet_Name": "갤럭시 S6 Edge +"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G925K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Galaxy S6 Edge",
+      "Pet_Name": "갤럭시 S6 엣지"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G925K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S6 Edge",
+      "Pet_Name": "갤럭시 S6 엣지"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G920K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S6",
+      "Pet_Name": "갤럭시 S6"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G920K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "Galaxy S6",
+      "Pet_Name": "갤럭시 S6"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G920K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 7,
+      "영문 모델명(Pet_Name)": "Galaxy S6",
+      "Pet_Name": "갤럭시 S6"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G906K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S5 LTE-A",
+      "Pet_Name": "갤럭시 S5 LTE-A"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G906K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "Galaxy S5 LTE-A",
+      "Pet_Name": "갤럭시 S5 LTE-A"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G906K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy S5 LTE-A",
+      "Pet_Name": "갤럭시 S5 LTE-A"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G900K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy S5",
+      "Pet_Name": "갤럭시 S5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G900K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "Galaxy S5",
+      "Pet_Name": "갤럭시 S5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G900K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "Galaxy S5",
+      "Pet_Name": "갤럭시 S5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G900K(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy S5",
+      "Pet_Name": "갤럭시 S5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G850K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "Galaxy ALPHA",
+      "Pet_Name": "갤럭시 알파"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G850K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy ALPHA",
+      "Pet_Name": "갤럭시 알파"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G781N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy S20 FE 5G",
+      "Pet_Name": "갤럭시 S20 FE 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G610K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0.0",
+      "영문 모델명(Pet_Name)": "Galaxy J7 Prime",
+      "Pet_Name": "갤럭시 J7 Prime"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G610K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy J7 Prime",
+      "Pet_Name": "갤럭시 J7 Prime"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-G150NK",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Folder",
+      "Pet_Name": "갤럭시폴더"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F926N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Z Fold3 5G",
+      "Pet_Name": "갤럭시 Z Fold3 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F916N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Z Fold2",
+      "Pet_Name": "갤럭시 Z 폴드2 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F916N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Z Fold2",
+      "Pet_Name": "갤럭시 Z 폴드2 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F907N(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Fold 5G",
+      "Pet_Name": "Winner"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F907N(B타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Galaxy Fold 5G",
+      "Pet_Name": "Winner"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F711N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Galaxy Z Flip3 5G",
+      "Pet_Name": "갤럭시 Z Flip3 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F707N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Z Flip 5G",
+      "Pet_Name": "갤럭시 Z Flip 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F700N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy Z Flip",
+      "Pet_Name": "갤럭시 Z Flip"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-F700N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy Z Flip",
+      "Pet_Name": "갤럭시 Z Flip"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-C105K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.2.2",
+      "영문 모델명(Pet_Name)": "Galaxy S4 Zoom",
+      "Pet_Name": "Galaxy S4 Zoom"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A908N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy A90 5G",
+      "Pet_Name": "갤럭시 A90 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A908N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy A90 5G",
+      "Pet_Name": "갤럭시 A90 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A710K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy A7",
+      "Pet_Name": "갤럭시 A7 (2016)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A700K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy A7",
+      "Pet_Name": "갤럭시 A7"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A530N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy A8",
+      "Pet_Name": "갤럭시 A8(2018)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A520K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Galaxy A5",
+      "Pet_Name": "갤럭시 A5(2017)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A520K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 7,
+      "영문 모델명(Pet_Name)": "Galaxy A5",
+      "Pet_Name": "갤럭시 A5(2017)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A516N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy A51 5G",
+      "Pet_Name": "갤럭시 A51 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A510K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy A5",
+      "Pet_Name": "갤럭시 A5 (2016)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A500K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "Galaxy A5",
+      "Pet_Name": "갤럭시 A5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A500K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy A5",
+      "Pet_Name": "갤럭시 A5"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A426N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy A42 5G",
+      "Pet_Name": "갤럭시 A42 5G"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A325N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy A32",
+      "Pet_Name": "갤럭시 A32"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A315N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy A31",
+      "Pet_Name": "갤럭시 A31"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A217N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 11,
+      "영문 모델명(Pet_Name)": "Galaxy A21s",
+      "Pet_Name": "갤럭시 A21s"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A125N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy A12",
+      "Pet_Name": "갤럭시 A12"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SM-A102N(자급제)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Galaxy A10e",
+      "Pet_Name": "갤럭시 A10e"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHW-M485W",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note 10.1",
+      "Pet_Name": "스마트홈패드2"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHW-M305KW",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.0.4",
+      "영문 모델명(Pet_Name)": "Galasy Tab 8.9",
+      "Pet_Name": "갤럭시탭 8.9 (wifi버전)"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E400K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.2.2",
+      "영문 모델명(Pet_Name)": "Galaxy GOLDEN",
+      "Pet_Name": "갤럭시 골든"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E370K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy S4 MINI",
+      "Pet_Name": "갤럭시 S4 미니"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E330K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.3",
+      "영문 모델명(Pet_Name)": "Galaxy S4 LTE-A",
+      "Pet_Name": "갤럭시 S4 LTE-A"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E310K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy MEGA",
+      "Pet_Name": "갤럭시 메가"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E310K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.2.2",
+      "영문 모델명(Pet_Name)": "Galaxy MEGA",
+      "Pet_Name": "갤럭시 메가"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy S4",
+      "Pet_Name": "갤럭시 S4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.3",
+      "영문 모델명(Pet_Name)": "Galaxy S4",
+      "Pet_Name": "갤럭시 S4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.2.2",
+      "영문 모델명(Pet_Name)": "Galaxy S4",
+      "Pet_Name": "갤럭시 S4"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E270K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "Galaxy GRAND",
+      "Pet_Name": "갤럭시 그랜드"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E250K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note2",
+      "Pet_Name": "갤럭시 노트2"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E230K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "Galaxy Note 10.1",
+      "Pet_Name": "Note 10.1 LTE"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E210K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.4",
+      "영문 모델명(Pet_Name)": "Galaxy S3",
+      "Pet_Name": "갤럭시 S3"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "SHV-E210K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.0.4",
+      "영문 모델명(Pet_Name)": "Galaxy S3",
+      "Pet_Name": "갤럭시 S3"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "EK-KC120K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "Galaxy Camera",
+      "Pet_Name": "갤럭시카메라"
+    },
+    {
+      "제조사": "Samsung",
+      "모델명": "EK-KC120K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.1",
+      "영문 모델명(Pet_Name)": "Galaxy Camera",
+      "Pet_Name": "갤럭시카메라"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "Nexus5",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Nexus5",
+      "Pet_Name": "Nexus5"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "Nexus5",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "Nexus5",
+      "Pet_Name": "Nexus5"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-V510N(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": " V50S ThinQ Dual Screen",
+      "Pet_Name": "V50S ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-V500N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "V50 ThinQ",
+      "Pet_Name": "V50 ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-V409N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1.0",
+      "영문 모델명(Pet_Name)": "V40 ThinQ",
+      "Pet_Name": "V40 ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-Q510N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "Q51",
+      "Pet_Name": "Q51"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-Q510N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "Q51",
+      "Pet_Name": "Q51"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-G900N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "LG VELVET",
+      "Pet_Name": "LG VELVET"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-G820N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "G8 ThinQ",
+      "Pet_Name": "G8 ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-G710N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.0.0",
+      "영문 모델명(Pet_Name)": "G7 ThinQ",
+      "Pet_Name": "G7 ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-G710N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 9,
+      "영문 모델명(Pet_Name)": "G7 ThinQ",
+      "Pet_Name": "G7 ThinQ"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LM-F100N",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 10,
+      "영문 모델명(Pet_Name)": "LG WING",
+      "Pet_Name": "WING"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-X600K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1",
+      "영문 모델명(Pet_Name)": "Q6",
+      "Pet_Name": "Q6"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-X600K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.1.1",
+      "영문 모델명(Pet_Name)": "Q6",
+      "Pet_Name": "Q6"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-X320K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "8.1",
+      "영문 모델명(Pet_Name)": "LG X500",
+      "Pet_Name": "LG X500"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-X320K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "LG X500",
+      "Pet_Name": "LG X500"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-V300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "V30",
+      "Pet_Name": "V30"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-V300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "V30",
+      "Pet_Name": "V30"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-K121K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "X400",
+      "Pet_Name": "LG K10(2017)"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-K120K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "X300",
+      "Pet_Name": "LG X300"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LGM-G600K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "G6",
+      "Pet_Name": "G6"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-H791",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8.1,
+      "영문 모델명(Pet_Name)": "Nexus 5X",
+      "Pet_Name": "Nexus 5X"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-H791",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 8,
+      "영문 모델명(Pet_Name)": "Nexus 5X",
+      "Pet_Name": "Nexus 5X"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F800K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "V20",
+      "Pet_Name": "V20"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F750K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "X Power",
+      "Pet_Name": "LG X Power"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F720K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "Stylus 2",
+      "Pet_Name": "Stylus 2"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F720K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "Stylus 2",
+      "Pet_Name": "Stylus 2"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F700K(C타입)",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "G5",
+      "Pet_Name": "G5"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F690K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "X CAM",
+      "Pet_Name": "X CAM"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F670K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "K10",
+      "Pet_Name": "LG K10"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F650K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "X screen",
+      "Pet_Name": "X screen"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F620K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "LG Class",
+      "Pet_Name": "LG Class"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F620K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "LG Class",
+      "Pet_Name": "LG Class"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F610K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "LG Wine Smart Jazz",
+      "Pet_Name": "wine smart jazz"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F600K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "V10",
+      "Pet_Name": "v10"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F560K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "LG G stylo",
+      "Pet_Name": "LG G stylo"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F560K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 6,
+      "영문 모델명(Pet_Name)": "LG G stylo",
+      "Pet_Name": "LG G stylo"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F540K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "LG Volt LTE",
+      "Pet_Name": "Volt LTE"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F520K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "AKA",
+      "Pet_Name": "AKA"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F520K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "AKA",
+      "Pet_Name": "AKA"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F510K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "LG G Flex2",
+      "Pet_Name": "LG G Flex2"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F500K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "LG G4",
+      "Pet_Name": "LG G4"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F500K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.1",
+      "영문 모델명(Pet_Name)": "LG G4",
+      "Pet_Name": "LG G4"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F480K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "Wine Smart",
+      "Pet_Name": "와인 스마트"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F470K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.2",
+      "영문 모델명(Pet_Name)": "LG G3 Beat",
+      "Pet_Name": "LG G3 Beat"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F460K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "LG G3 Cat.6",
+      "Pet_Name": "LG G3 Cat.6"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F460K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.1",
+      "영문 모델명(Pet_Name)": "LG G3 Cat.6",
+      "Pet_Name": "LG G3 Cat.6"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F400K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "LG G3",
+      "Pet_Name": "LG G3"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F370K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "LG F70",
+      "Pet_Name": "LG F70"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F350K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "5.0.1",
+      "영문 모델명(Pet_Name)": "LG G Pro2",
+      "Pet_Name": "LG G Pro2"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F340K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.2.2",
+      "영문 모델명(Pet_Name)": "LG G Flex",
+      "Pet_Name": "LG G Flex"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F320K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "G2",
+      "Pet_Name": "LG G2"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F300K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "LG Vu3",
+      "Pet_Name": "LG Vu3"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F220K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "LG optimus GK",
+      "Pet_Name": "옵티머스 GK"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F220K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.1.2",
+      "영문 모델명(Pet_Name)": "LG optimus GK",
+      "Pet_Name": "옵티머스 GK"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-F180K",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.0.4",
+      "영문 모델명(Pet_Name)": "LG optimus G",
+      "Pet_Name": "옵티머스 G"
+    },
+    {
+      "제조사": "LG",
+      "모델명": "LG-D329",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "4.4.2",
+      "영문 모델명(Pet_Name)": "LG L70",
+      "Pet_Name": "LG L70"
+    },
+    {
+      "제조사": "GOOGLE",
+      "모델명": "Pixel 3",
+      "OS(Platfrom_Name)": "Android",
+      "OS": 12,
+      "영문 모델명(Pet_Name)": "Pixel 3",
+      "Pet_Name": "픽셀3"
+    },
+    {
+      "제조사": "GOOGLE",
+      "모델명": "Pixel 2",
+      "OS(Platfrom_Name)": "Android",
+      "OS": "11.0",
+      "영문 모델명(Pet_Name)": "Pixel 2",
+      "Pet_Name": "픽셀2"
+    }
+  ],
+  "iOS": [
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.3.1",
+      "영문 모델명(Pet_Name)": "Apple Watch 2",
+      "Pet_Name": "Apple Watch 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AW4C-44ASBB",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "-",
+      "영문 모델명(Pet_Name)": "Apple Watch 4",
+      "Pet_Name": "Apple Watch 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AW4C-44ASBB",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "Apple Watch 4",
+      "Pet_Name": "Apple Watch 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE0",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "4.2.1 ",
+      "영문 모델명(Pet_Name)": "iPad 1",
+      "Pet_Name": "iPad 1"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE0",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.0",
+      "영문 모델명(Pet_Name)": "iPad 1",
+      "Pet_Name": "iPad 1"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE0",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.0.1",
+      "영문 모델명(Pet_Name)": "iPad 1",
+      "Pet_Name": "iPad 1"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE0",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "iPad 1",
+      "Pet_Name": "iPad 1"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD2-16W",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "iPad 2",
+      "Pet_Name": "iPad 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD2-16W",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.3",
+      "영문 모델명(Pet_Name)": "iPad 2",
+      "Pet_Name": "iPad 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD2-16W",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0.4",
+      "영문 모델명(Pet_Name)": "iPad 2",
+      "Pet_Name": "iPad 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD2-16W",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0.6",
+      "영문 모델명(Pet_Name)": "iPad 2",
+      "Pet_Name": "iPad 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD2-16W",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "8.0",
+      "영문 모델명(Pet_Name)": "iPad 2",
+      "Pet_Name": "iPad 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADA-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "11.2.6",
+      "영문 모델명(Pet_Name)": "iPad Air",
+      "Pet_Name": "iPad Air"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADA-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "8.4",
+      "영문 모델명(Pet_Name)": "iPad Air",
+      "Pet_Name": "iPad Air"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "14.4.1",
+      "영문 모델명(Pet_Name)": "iPad Air 2",
+      "Pet_Name": "iPad Air 2"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADM-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.2",
+      "영문 모델명(Pet_Name)": "iPad Mini",
+      "Pet_Name": "iPad Mini"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADM-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.3",
+      "영문 모델명(Pet_Name)": "iPad Mini",
+      "Pet_Name": "iPad Mini"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADM-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0",
+      "영문 모델명(Pet_Name)": "iPad Mini",
+      "Pet_Name": "iPad Mini"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADM-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0.4",
+      "영문 모델명(Pet_Name)": "iPad Mini",
+      "Pet_Name": "iPad Mini"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADM3-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 11.3,
+      "영문 모델명(Pet_Name)": "iPad mini 3",
+      "Pet_Name": "iPad mini 3"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "14.4.1",
+      "영문 모델명(Pet_Name)": "iPad mini 4",
+      "Pet_Name": "iPad mini 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADMR-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 11.2,
+      "영문 모델명(Pet_Name)": "iPad mini retina",
+      "Pet_Name": "iPad mini retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADMR-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "11.2.6",
+      "영문 모델명(Pet_Name)": "iPad mini retina",
+      "Pet_Name": "iPad mini retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPADMR-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "iPad mini retina",
+      "Pet_Name": "iPad mini retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 13.5,
+      "영문 모델명(Pet_Name)": "iPad Pro",
+      "Pet_Name": "iPad Pro"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15,
+      "영문 모델명(Pet_Name)": "iPad Pro",
+      "Pet_Name": "iPad Pro"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "12.4.1",
+      "영문 모델명(Pet_Name)": "iPad Pro",
+      "Pet_Name": "iPad Pro"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.3.1",
+      "영문 모델명(Pet_Name)": "iPad Pro 9.7",
+      "Pet_Name": "iPad Pro 9.7"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD4-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "10.3.3",
+      "영문 모델명(Pet_Name)": "iPad Retina",
+      "Pet_Name": "iPad Retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD4-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "iPad Retina",
+      "Pet_Name": "iPad Retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD4-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.3",
+      "영문 모델명(Pet_Name)": "iPad Retina",
+      "Pet_Name": "iPad Retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "IPAD4-L16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "iPad Retina",
+      "Pet_Name": "iPad Retina"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP11-256",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.2,
+      "영문 모델명(Pet_Name)": "iPhone 11",
+      "Pet_Name": "iPhone 11"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP11P-64",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14.7,
+      "영문 모델명(Pet_Name)": "iPhone 11 Pro",
+      "Pet_Name": "iPhone 11 Pro"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "MGMN3KH/A",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15,
+      "영문 모델명(Pet_Name)": "iPhone 12 Pro",
+      "Pet_Name": "iPhone 12 Pro"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.2,
+      "영문 모델명(Pet_Name)": "iPhone 13",
+      "Pet_Name": "iPhone 13"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.2,
+      "영문 모델명(Pet_Name)": "iPhone 13 mini",
+      "Pet_Name": "iPhone 13 mini"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "4.2.1",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "4.3.3",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.3",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP-R16",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.3",
+      "영문 모델명(Pet_Name)": "iPhone 3GS",
+      "Pet_Name": "iPhone 3GS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "4.3.5",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "5.1.1",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.0",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.0.1",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0.2 ",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1.2",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1.2",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1.2",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-32",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1.2",
+      "영문 모델명(Pet_Name)": "iPhone 4",
+      "Pet_Name": "iPhone 4"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-W16S",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.0.3",
+      "영문 모델명(Pet_Name)": "iPhone 4S",
+      "Pet_Name": "iPhone 4S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-W16S",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "7.1",
+      "영문 모델명(Pet_Name)": "iPhone 4S",
+      "Pet_Name": "iPhone 4S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-W16S",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.0",
+      "영문 모델명(Pet_Name)": "iPhone 4S",
+      "Pet_Name": "iPhone 4S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP4-W16S",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.3.5",
+      "영문 모델명(Pet_Name)": "iPhone 4S",
+      "Pet_Name": "iPhone 4S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE3",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 10.3,
+      "영문 모델명(Pet_Name)": "iPhone 5",
+      "Pet_Name": "iPhone 5"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE3",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "10.0.2",
+      "영문 모델명(Pet_Name)": "iPhone 5",
+      "Pet_Name": "iPhone 5"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "PTA-TYPE3",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "6.1.4",
+      "영문 모델명(Pet_Name)": "iPhone 5",
+      "Pet_Name": "iPhone 5"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP5C-16P",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "10.0.2",
+      "영문 모델명(Pet_Name)": "iPhone 5C",
+      "Pet_Name": "iPhone 5C"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP5C-16P",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "10.3.2",
+      "영문 모델명(Pet_Name)": "iPhone 5C",
+      "Pet_Name": "iPhone 5C"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP5S-16SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "8.1.3",
+      "영문 모델명(Pet_Name)": "iPhone 5S",
+      "Pet_Name": "iPhone 5S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP6-16GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "8.4.1",
+      "영문 모델명(Pet_Name)": "iPhone 6",
+      "Pet_Name": "iPhone 6"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "OPENMODEL2",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "9.3.1",
+      "영문 모델명(Pet_Name)": "iPhone 6",
+      "Pet_Name": "iPhone 6"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "OPENMODEL2",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 12.1,
+      "영문 모델명(Pet_Name)": "iPhone 6+",
+      "Pet_Name": "iPhone 6+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14.1,
+      "영문 모델명(Pet_Name)": "iPhone 6S",
+      "Pet_Name": "iPhone 6S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP6S-16RG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "12.4.1",
+      "영문 모델명(Pet_Name)": "iPhone 6S",
+      "Pet_Name": "iPhone 6S"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP6SP-16GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 11.4,
+      "영문 모델명(Pet_Name)": "iPhone 6S+",
+      "Pet_Name": "iPhone 6S+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP6SP-16GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14,
+      "영문 모델명(Pet_Name)": "iPhone 6S+",
+      "Pet_Name": "iPhone 6S+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "128G",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "13.4.2",
+      "영문 모델명(Pet_Name)": "iPhone 6S+",
+      "Pet_Name": "iPhone 6S+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP6SP-16GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "13.5.1",
+      "영문 모델명(Pet_Name)": "iPhone 6S+",
+      "Pet_Name": "iPhone 6S+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP7-32RG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14,
+      "영문 모델명(Pet_Name)": "iPhone 7",
+      "Pet_Name": "iPhone 7"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP7P-32RG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.1,
+      "영문 모델명(Pet_Name)": "iPhone 7+",
+      "Pet_Name": "iPhone 7+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "12.3.1",
+      "영문 모델명(Pet_Name)": "iPhone 7+",
+      "Pet_Name": "iPhone 7+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP8-64GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 13.5,
+      "영문 모델명(Pet_Name)": "iPhone 8",
+      "Pet_Name": "iPhone 8"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP8-64GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "11.4.1",
+      "영문 모델명(Pet_Name)": "iPhone 8",
+      "Pet_Name": "iPhone 8"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP8P-64GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14.1,
+      "영문 모델명(Pet_Name)": "iPhone 8+",
+      "Pet_Name": "iPhone 8+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP8P-64GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14.3,
+      "영문 모델명(Pet_Name)": "iPhone 8+",
+      "Pet_Name": "iPhone 8+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIP8P-64GD",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "13.5.1",
+      "영문 모델명(Pet_Name)": "iPhone 8+",
+      "Pet_Name": "iPhone 8+"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 12.4,
+      "영문 모델명(Pet_Name)": "iPhone SE",
+      "Pet_Name": "iPhone SE"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "-",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "10.3.3",
+      "영문 모델명(Pet_Name)": "iPhone SE",
+      "Pet_Name": "iPhone SE"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPX-64SV",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 13.6,
+      "영문 모델명(Pet_Name)": "iPhone X",
+      "Pet_Name": "iPhone X"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPX-64SV",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.2,
+      "영문 모델명(Pet_Name)": "iPhone X",
+      "Pet_Name": "iPhone X"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPX-256SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "-",
+      "영문 모델명(Pet_Name)": "iPhone X",
+      "Pet_Name": "iPhone X"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPX-256SG",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "11.1.2",
+      "영문 모델명(Pet_Name)": "iPhone X",
+      "Pet_Name": "iPhone X"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXR-64",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "13.5.1",
+      "영문 모델명(Pet_Name)": "iPhone XR",
+      "Pet_Name": "iPhone XR"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXR-256",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "15.0.2",
+      "영문 모델명(Pet_Name)": "iPhone XR",
+      "Pet_Name": "iPhone XR"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXS-64",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 14,
+      "영문 모델명(Pet_Name)": "iPhone XS",
+      "Pet_Name": "iPhone XS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXS-64",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "15.0.2",
+      "영문 모델명(Pet_Name)": "iPhone XS",
+      "Pet_Name": "iPhone XS"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXSM-64",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": 15.2,
+      "영문 모델명(Pet_Name)": "iPhone XS MAX",
+      "Pet_Name": "iPhone XS MAX"
+    },
+    {
+      "제조사": "Apple",
+      "모델명": "AIPXSM-256",
+      "OS(Platfrom_Name)": "iOS",
+      "OS": "15.0.2",
+      "영문 모델명(Pet_Name)": "iPhone XS MAX",
+      "Pet_Name": "iPhone XS MAX"
+    }
+ ]

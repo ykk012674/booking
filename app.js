@@ -9,6 +9,7 @@ const compression = require('compression');
 
 const electricRouter = require('./routes/electric_index');
 const gasRouter = require('./routes/gas_index');
+const samsungRouter = require('./routes/samsung_index');
 const adminRouter = require('./routes/admin');
 var UserModel = require("./models/CustomerModel");
 const app = express();
@@ -37,13 +38,15 @@ db();
 
 // view engine setup
 app.engine('.hbs', exphbs({
-    defaultLayout: 'layout', extname: '.hbs',
+    defaultLayout: 'layout',
+    extname: '.hbs',
     runtimeOptions: {
         allowProtoPropertiesByDefault: true,
         allowProtoMethodsByDefault: true,
     }
 }));
 app.set('view engine', '.hbs');
+
 
 app.use(logger('dev'));
 app.use(express.json());
@@ -68,6 +71,8 @@ app.get('/home', function (req, res) {
 app.use('/admin', adminRouter);
 app.use('/electric', electricRouter);
 app.use('/gas', gasRouter);
+app.use('/samsung', samsungRouter);
+
 
 
 //Users
